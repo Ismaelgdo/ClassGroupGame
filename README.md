@@ -14,3 +14,5 @@ Game was develped in May 2018
 ![Main Game mode](https://i.imgur.com/Snv0zJS.png)
 
 ![Shooting mode](https://i.imgur.com/wtIM3oX.png)
+
+![gif](https://i.imgur.com/AgFZh1o.gifv)
